@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Theme Colors -->
+    <color name="bg_primary">#070B14</color>
+    <color name="bg_secondary">#0D1220</color>
+    <color name="bg_card">#111827</color>
+    <color name="bg_card_elevated">#151D2E</color>
+
+    <!-- Accent Colors -->
+    <color name="electric_purple">#8B5CF6</color>
+    <color name="bright_purple">#A855F7</color>
+    <color name="purple_gradient_start">#7C3AED</color>
+    <color name="cyan_accent">#22D3EE</color>
+    <color name="cyan_gradient_end">#06B6D4</color>
+    <color name="blue_accent">#3B82F6</color>
+
+    <!-- Status Colors -->
+    <color name="success_green">#34D399</color>
+    <color name="warning_yellow">#FBBF24</color>
+    <color name="error_red">#F87171</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#F8FAFC</color>
+    <color name="text_secondary">#94A3B8</color>
+    <color name="text_muted">#64748B</color>
+
+    <!-- Structural Colors -->
+    <color name="border_color">#263244</color>
+    <color name="border_color_glow">#4C3B82F6</color>
+    <color name="chip_background">#1E293B</color>
+
+    <!-- Translucent Glows -->
+    <color name="purple_glow_20">#338B5CF6</color>
+    <color name="cyan_glow_20">#3322D3EE</color>
+    <color name="card_stroke">#2D3748</color>
+    <color name="card_stroke_focused">#8B5CF6</color>
+    <color name="nav_background">#0D1220</color>
+    <color name="nav_item_unselected">#64748B</color>
+</resources>

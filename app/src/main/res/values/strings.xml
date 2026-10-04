@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mod3handson2</string>
+    <string name="header_title">NEURAL SEARCH</string>
+    <string name="header_subtitle">Semantic Retrieval Lab</string>
+    <string name="status_online">● AI ENGINE ONLINE</string>
+    <string name="status_offline">○ ENGINE OFFLINE</string>
+    <string name="hero_title">Find the\nright knowledge.</string>
+    <string name="hero_subtitle">Search documents using semantic embeddings and intelligent similarity ranking.</string>
+    <string name="search_hint">Ask anything about your documents...</string>
+    <string name="btn_search">✦ SEARCH KNOWLEDGE</string>
+    <string name="results_header">SEARCH RESULTS</string>
+    <string name="results_stat_count">Results</string>
+    <string name="results_stat_score">Best Match</string>
+    <string name="results_stat_time">Search Time</string>
+    <string name="explore_header">EXPLORE KNOWLEDGE</string>
+    <string name="history_header">RECENT SEARCHES</string>
+    <string name="settings_header">SYSTEM SETTINGS</string>
+    <string name="empty_title">NEURAL SEARCH</string>
+    <string name="empty_subtitle">Ask a question to discover the most relevant knowledge.</string>
+    <string name="empty_try_prefix">Try: \"How does machine learning work?\"</string>
+    <string name="loading_title">ANALYZING QUERY</string>
+    <string name="loading_step_1">Generating semantic representation</string>
+    <string name="loading_step_2">Ranking documents with similarity vectors</string>
+    <string name="loading_step_3">Finding relevant knowledge</string>
+    <string name="error_title">CONNECTION INTERRUPTED</string>
+    <string name="error_message">Unable to reach the Retrieval Engine.\nCheck that the Python backend is running and try again.</string>
+    <string name="btn_retry">RETRY</string>
+    <string name="doc_insight_header">DOCUMENT INSIGHT</string>
+    <string name="semantic_match_label">SEMANTIC MATCH</string>
+    <string name="why_this_result_title">Why this result?</string>
+    <string name="ai_insight_title">AI RETRIEVAL INSIGHT</string>
+</resources>

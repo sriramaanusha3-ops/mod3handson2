@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="300dp"
+    android:height="150dp"
+    android:viewportWidth="300"
+    android:viewportHeight="150">
+    <!-- Abstract neural mesh lines -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M 20,30 Q 80,10 150,70 T 280,120 M 50,120 Q 120,40 200,100 T 260,30"
+        android:strokeColor="#338B5CF6"
+        android:strokeWidth="1.5" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M 10,80 Q 100,140 180,40 T 290,60"
+        android:strokeColor="#3322D3EE"
+        android:strokeWidth="1.5" />
+    <!-- Node glow points -->
+    <path
+        android:fillColor="#8022D3EE"
+        android:pathData="M150,70 m -3,0 a 3,3 0 1,0 6,0 a 3,3 0 1,0 -6,0 M200,100 m -4,0 a 4,4 0 1,0 8,0 a 4,4 0 1,0 -8,0" />
+    <path
+        android:fillColor="#808B5CF6"
+        android:pathData="M80,10 m -4,0 a 4,4 0 1,0 8,0 a 4,4 0 1,0 -8,0 M180,40 m -3,0 a 3,3 0 1,0 6,0 a 3,3 0 1,0 -6,0" />
+</vector>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+    <dimen name="margin_xlarge">32dp</dimen>
+
+    <dimen name="card_corner_radius">20dp</dimen>
+    <dimen name="button_corner_radius">20dp</dimen>
+    <dimen name="input_corner_radius">18dp</dimen>
+    <dimen name="chip_corner_radius">16dp</dimen>
+
+    <dimen name="text_hero">32sp</dimen>
+    <dimen name="text_section">22sp</dimen>
+    <dimen name="text_card_title">17sp</dimen>
+    <dimen name="text_body">14sp</dimen>
+    <dimen name="text_meta">12sp</dimen>
+</resources>
